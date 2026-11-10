@@ -1,2 +1,2 @@
-# Intepretabilnost-prediktivnih-modela-dubokog-u-enja-u-detekciji-dijabeti-ke-retinopatije
+# Intepretabilnost prediktivnih modela dubokog učenja u detekciji dijabetičke retinopatije
 Ovaj rad bavi se primjenom modela dubokog učenja za detekciju dijabetičke retinopatije na temelju fundus fotografija s naglaskom na interpretabilnost njihovih predikcija primjenom metoda objašnjive umjetne inteligencije. Cilj rada je analizirati mogućnosti metoda Grad-CAM, LIME i SHAP u objašnjavanju odluka klasifikacijskog modela i procjena njihova doprinosa povećanju transparentnosti i pouzdanosti primjene umjetne inteligencije u medicinskoj dijagnostici.
